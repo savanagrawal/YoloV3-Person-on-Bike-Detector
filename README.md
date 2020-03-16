@@ -1,5 +1,5 @@
 # YoloV3-Person-on-Bike-Detector
-Detect person on motorbike or scooter with Yolo V3
+Detect person on motorbike or scooter with Yolo V3 on webcam
 
 Download weights file from my kaggle webiste:
 https://www.kaggle.com/savanagrawal/detect-person-on-motorbike-or-scooter
